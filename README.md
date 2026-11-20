@@ -145,7 +145,7 @@ La borne sur ℂ^d est Cauchy–Schwarz plus la norme d'opérateur. La propositi
 | [`nrs3-tightbinding`](https://github.com/naype888-cloud/nrs3-tightbinding) | La chaîne de Physlib et la table périodique |
 | [`nrs3-cristales`](https://github.com/naype888-cloud/nrs3-cristales) | Cristaux : forme par la symétrie, taille par le spectre |
 | [`nrs3-mandelstam-tamm-cramer-rao`](https://github.com/naype888-cloud/nrs3-mandelstam-tamm-cramer-rao) | Vitesse d'évolution et borne d'estimation de phase |
-| [`Anti-Kurt-Godel-Theorem`](https://github.com/naype888-cloud/Anti-Kurt-Godel-Theorem) | Complétude constructive |
+| [`nrs3-completude`](https://github.com/naype888-cloud/nrs3-completude) | Complétude constructive |
 | [`bacqm-systems`](https://github.com/naype888-cloud/bacqm-systems) | Dynamique de mémoire invariante d'échelle |
 
 ---
