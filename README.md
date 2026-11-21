@@ -43,6 +43,10 @@
 
 ## 📐 Démonstration constructive en quatre étapes
 
+<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/oscuro/plaque_golab_etapes.png"><img src="assets/claro/plaque_golab_etapes.png" alt="L'échelle déductive en quatre étapes : des extrêmes de Gołąb à la stabilité en d=3" width="860"></picture>
+</div>
+
 ### Étape 1 : Les deux normes extrêmes de Gołąb
 
 > **Proposition 1.1 (Hexagone, π = 3).** La fonction `hexNorm v = max(|v₁|, |v₂|, |v₁ − v₂|)` est une norme sur ℝ². Son cercle unité est exactement l'hexagone de sommets (1,0), (1,1), (0,1), (−1,0), (−1,−1), (0,−1) ; chaque côté mesure 1, le périmètre vaut 6 et π_hex = 3.
