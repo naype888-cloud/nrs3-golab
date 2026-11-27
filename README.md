@@ -2,7 +2,8 @@
 
 <div align="center">
 
-# RS<sup>N</sup>³ · Gołąb
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/oscuro/titre_golab.png"><img src="assets/claro/titre_golab.png" alt="RS^N³ · Gołąb" width="860"></picture>
+**"RS<sup>N</sup>³ · Gołąb"**
 ### Le π d'un plan normé : 3 pour l'hexagone, 4 pour le carré, π exact pour le produit scalaire ; la stabilité choisit d = 3
 
 **Eduardo Nava Hernández**  
